@@ -25,5 +25,5 @@ the data has been analyed and plotted using excel
 
 • Writing final conclusion
 
-**details are existed in the Report file.**
+**For more details, please refer to the report file.**
 
